@@ -1,6 +1,7 @@
 ### I'm Wendell
 ##Pronounced Win-Dell (like Dell computers)
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=799318633876999268" height="206" width="236" frameborder="0" scrolling="no" ></iframe>
+
+
 - 🔭 I’m currently working on a website for my local Chick-fil-A
 - 🌱 I’m currently learning Python, Vue, and Angular
 
