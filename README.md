@@ -1,5 +1,5 @@
-### I'm Wendell
-##Pronounced Win-Dell (like Dell computers)
+# I'm Wendell
+###Pronounced Win-Dell (like Dell computers)
 
 
 - 🔭 I’m currently working on a website for my local Chick-fil-A
